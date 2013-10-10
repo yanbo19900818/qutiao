@@ -1,0 +1,110 @@
+/* CSS Document */
+
+#bd{background:url(../images/bg-repeaty.jpg) repeat-y;margin:5px auto 15px}
+.yao-b{float:left;width:170px}
+#yao-main{float:right;width:100%;margin-left:-170px}
+#yao-main .yao-b{float:none;width:auto;padding:0 0 0 15px;margin-left:170px}
+.mod-helpctn{margin:12px 0 0 20px}
+.mod-helpctn h3{font-size:14px;font-weight:bold;color:#333;padding-bottom:10px;margin-bottom:20px;border-bottom:1px solid #e3e3e3}
+.mod-helpctn .bd{color:#545454;padding:0 20px 0 0}
+.mod-helpctn .bd a{color:#545454}
+.mod-helpctn .bd p{margin-bottom:1.5em}
+.mod-helpctn .help-ctn{padding:0 60px 20px 0}
+#fxIntroNav .nav-list{font-size:14px;text-align:left;padding:10px 0 10px 40px}
+#fxIntroNav li{line-height:45px}
+#fxIntroNav li a{text-decoration:none;color:#333;padding-right:30px}
+#fxIntroNav li.current a{color:#c00;font-weight:bold;background-position:50px -156px}
+.more{position:absolute;right:0;top:2px;font-size:12px;color:#666;text-decoration:none;font-weight:normal;font-family:"\5B8B\4F53"}
+.more:hover{color:#666}
+
+
+#searchBox .tab-nav a.current,.btn01,.mod-title .hd,#shopIntroduce .tab-nav,.sorting a{background-image:url(../images/bg-repeatx.jpg);background-repeat:repeat-x}
+.mod-title .hd{position:relative;font-size:14px;line-height:37px;color:#333;height:38px;margin-bottom:10px;background-position:0 -332px;overflow:hidden}
+.mod-title .hd h2{float:left;font-weight:bold;padding:0 8px;border-bottom:1px solid #d00000}
+.mod-ucindex .hd{margin:0}
+#uciAccount .account-vip{font-size:14px;padding:15px 20px}
+#uciAccount .account-vip-info{float:left;width:390px}
+#uciAccount .account-vip-info .sp{_position:relative;_top:-1px;font-size:16px;color:#e5e5e5;margin:0 10px 0 0}
+#uciAccount .account-vip-status{float:right;font-size:12px;width:363px}
+#uciAccount .account-authentication,#uciAccount .account-binding{display:inline-block;color:#666;margin-left:10px}
+#uciAccount .ico-authentication,#uciAccount .ico-binding{position:relative;top:2px;display:inline-block;width:21px;height:13px;background-position:0 -260px}
+#uciAccount .ico-binding{width:15px;background-position:0 -286px}
+#uciAccount .account-limit{font-size:14px}
+#uciAccount .account-limit b{color:#f1460a}
+#uciAccount .bd{border:1px solid #e1e1e1;border-top:0}
+#uciAccount .ico-help1{display:inline-block;font-size:12px;line-height:15px;color:#666;padding-left:15px;margin-left:10px;background-position:0 -1860px;cursor:help}
+#uciAccount .account{color:#666;background-color:#fafafa;border-top:1px solid #ececec}
+#uciAccount .account i{font-size:14px;color:#333;display:inline-block;font-style:normal;width:100px}
+#uciAccount .account b{display:inline-block;font-size:18px;font-family:Verdana;font-weight:normal;color:#f1470b;width:100px;text-align:right;margin-right:10px}
+#uciAccount .account ul{float:left;width:373px;padding:8px 13px}
+#uciAccount .account li{line-height:35px;height:36px;padding-left:70px}
+#uciAccount .account li.account-jf{padding-left:15px}
+#uciAccount .account .account-fx,#uciAccount .account .account-jf{padding-left:70px;background-color:#fff;border:1px solid #ebebeb}
+#uciAccount .ico-uc-fx,#uciAccount .ico-uc-jf{display:inline-block;width:25px;height:20px;margin-right:26px;vertical-align:middle;background-position:0 -160px}
+#uciAccount .ico-uc-jf{margin-right:10px;background-position:-40px -160px}
+#uciAccount .account .accountl{border-right:1px solid #e1e1e1}
+#uciAccount .account .accountr{border-left:1px solid #fff}
+#uciAccount .accountr li{padding-left:51px}
+#uciAccount .accountr b{width:80px}
+#uciAccount .account-exchange{border-top:1px solid #e1e1e1}
+#uciAccount .account-exchange li{float:left;_display:inline;color:#666;width:210px;padding:20px 13px 10px 160px;margin-left:15px}
+#uciAccount .btn-exchange{float:left;_display:inline;font-size:14px;font-weight:bold;color:#333;width:110px;margin-left:-155px;padding:8px 0 9px 35px;background-position:-315px -500px}
+#uciAccount .btn-exchange:hover{color:#333;text-decoration:none}
+#uciAccount .account-exchange .ico-uc-fx,#uciAccount .account-exchange .ico-uc-jf{margin-right:10px}
+#uciAccount .account-exchange .ico-uc-jf{margin-right:7px}
+#uciAccount .btn-exchange:hover{background-position:-315px -540px}
+#uciAccount .account-exchange p{margin-bottom:5px}
+#uciAccount .account-er p{padding-top:8px}
+#uciAccount .account-exchange .simsun{_margin-left:3px}
+#uciAccount .ft{height:25px;overflow:hidden}
+#uciAccount .ft span{float:left;width:163px;height:25px;background-position:0 -735px}
+#uciAccount .ft .account-br{float:right;background-position:-200px -735px}
+
+#uciOrder .tips-nothing{margin:70px auto 80px}
+#uciOrder .td-shop{width:100px;padding-left:20px}
+#uciOrder .uc-table-title .td-shop div{text-align:left;}
+#uciOrder .td-num{width:200px}
+#uciOrder .td-num div{width:200px; text-align:center;word-wrap:break-word;overflow:hidden}
+#uciOrder .td-time{text-align:center;width:85px}
+#uciOrder .td-money1,#uciOrder .td-money2,#uciOrder .td-money3{text-align:right;width:75px}
+#uciOrder .uc-table-title .td-money1,#uciOrder .uc-table-title .td-money2,#uciOrder .uc-table-title .td-money3{padding-left:15px}
+#uciOrder .td-status{text-align:center;width:320px}
+.tips-nothing{text-align:center;margin:100px auto 120px}
+.tips-nothing p{color:#666}
+.mod-uc-faq{clear:both;margin-bottom:0}
+.tips-nothing-ctn{font-size:14px;color:#000;width:300px;margin:0 auto 10px;padding:10px 0 8px;border:1px solid #e1e2e2;background-color:#fafafa}
+.tips-nothing-ctn a{text-decoration:underline}
+
+.uc-table{width:100%}
+.uc-table th{color:#333;line-height:40px;text-align:center;height:40px;background-color:#fafafa;border-bottom:1px solid #ececec}
+.uc-table th div{text-align:center}
+.uc-table td{color:#666;font-family:Arial;text-align:left;padding:10px 0 10px 8px;border-bottom:1px solid #f3f3f3}
+.uc-table .td-ico-money,.uc-table .td-ico-endtime{font-size:10px;letter-spacing:-1px;width:18px;padding-left:5px}
+.uc-table .td-ico-money i,.uc-table .td-ico-endtime a{display:block;color:#fff;font-style:normal;font-family:Verdana;line-height:12px;font-weight:bold;text-align:center;width:19px;height:12px;background-position:-30px -12px;overflow:hidden}
+.uc-table .td-ico-endtime a{width:12px;text-indent:-9999px;background-position:0 -12px}
+.uc-table .td-ico-endtime a:hover{text-decoration:none}
+
+
+
+#ucSubnav .title1,#ucSubnav .title2,#ucSubnav .title3,.ico-uc-fx,.ico-uc-jf,.mod-uc-faq h3 a,.td-ico-money i,.td-ico-endtime a,#ucSubs .ico-subs-vol,#ucSubs .ico-subs-sales,#ucSubs .ico-s-success,.mod-uctab a.current,.uc-fav-list .uc-collection-title,.ico-read,#ucOrderSelect .input-l,#ucOrderSelect .uc-orderselect-right b.current,#ucCommodityDynamic .commedity-detail .commedity-dinamic,#ucCommodityDynamic .commedity-detail .commedity-count,.uc-olist-help i,.ico-authentication,.ico-binding,.ico-nowait,.ico-kfend,.btn-support-kf,.uckf-tips-sign,#ucAccountBind .bind-btn{background-image:url(../images/uc.png);background-repeat:no-repeat}
+#ucSubnav ul{width:169px}
+#ucSubnav li{font-size:14px;line-height:30px;color:#333;zoom:1}
+#ucSubnav li a{display:block;color:#545454;padding-left:55px;margin:2px 0;height:100%;border-bottom:1px solid #f5f5f5}
+#ucSubnav li a:hover{color:#c00;font-weight:bold;text-decoration:none}
+#ucSubnav li.current a{color:#c00;font-weight:bold;background-color:#ebebeb;border-bottom:1px solid #fff}
+#ucSubnav .title1,#ucSubnav .title2,#ucSubnav .title3{font-weight:bold;padding:18px 0 0 40px;margin:12px 15px 5px;background-position:-65px -108px}
+#ucSubnav .title1{margin-top:0;padding-top:10px}
+#ucSubnav .title2{border-top:1px solid #dfdfdf;background-position:-65px -150px}
+#ucSubnav .title3{border-top:1px solid #dfdfdf;background-position:-65px -200px}
+#ucSubnav .uc-ask{padding-top:10px;margin:0 15px;border-top:1px solid #dfdfdf}
+#ucSubnav .uc-ask a.btn07{display:inline-block;padding:0 0 0 40px}
+#ucSubnav .uc-ask .btn07 span{padding-right:38px}
+#ucSubnav .uc-subnav-num{position:relative;zoom:1}
+#ucSubnav .uc-subnav-num b{position:absolute;top:-5px;left:115px;color:#c00;font-size:12px}
+
+
+#ucAccountBind li em{display:block;font-style:normal;font-weight:bold;margin-bottom:8px}
+#ucAccountBind li .bind-btn{position:absolute;top:15px;right:0;color:#fff;font-weight:bold;line-height:27px;text-align:center;width:110px;height:27px;background-position:0 -440px}
+#ucAccountBind li .bind-btn:hover{color:#fff;text-decoration:none}
+#ucAccountBind li .bind-cancel{position:absolute;top:15px;right:0;color:#666;text-decoration:underline;line-height:27px;text-align:center;width:110px;height:27px}#ucAccountBind li .bind-cancel:hover{color:#666}
+#ucAccountBind li .account-bind{position:absolute;top:40px;left:42px;width:15px;height:15px;background-position:0 -1980px}

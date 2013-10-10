@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE taglib PUBLIC "-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN"  "http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd">
+<taglib>
+	<tlib-version>1.0</tlib-version><!-- 标签库的版本 -->
+	<jsp-version>1.2</jsp-version><!-- 这个标签库要求的JSP规范版本 -->
+	<short-name></short-name><!-- JSP页面编写工具可以用来创建助记名的可选名字 -->
+	<tag>
+		<name>select</name><!-- 唯一标签名 -->
+		<tag-class>com.mobcent.taglib.Select</tag-class>
+		<!--
+			标签HelloWorldTag类的完全限定名
+		-->
+		<body-content>empty</body-content><!-- 正文内容类型 -->
+		<attribute>
+			<!-- 属性名 -->
+			<name>name</name>
+			<!-- 是否为可选属性 -->
+			<required>true</required>
+			<!-- 是否接受JSP表达示计算结果 -->
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>id</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>selected</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	</tag>
+	<tag>
+		<name>pageTag</name><!-- 唯一标签名 -->
+		<tag-class>com.mobcent.taglib.PageTag</tag-class>
+		<!--
+			标签HelloWorldTag类的完全限定名
+		-->
+		<body-content>empty</body-content><!-- 正文内容类型 -->
+		<attribute>
+			<!-- 属性名 -->
+			<name>before</name>
+			<!-- 是否为可选属性 -->
+			<required>false</required>
+			<!-- 是否接受JSP表达示计算结果 -->
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>next</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>now</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>totalPage</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+			<attribute>
+			<name>url</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>placeholder</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		
+	</tag>
+</taglib>  
