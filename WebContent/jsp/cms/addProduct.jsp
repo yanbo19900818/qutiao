@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Insert title here</title>
 <script type="text/javascript">
-	window.UEDITOR_HOME_URL = "/uediter/";
+	window.UEDITOR_HOME_URL = "/resource/uediter/";
 	function submitProduct() {
 		var html = UE.getEditor('editor').getContent();
 		var tag=$("#tag1").val()+"&"+$("#tag2").val()+"&"+$("#tag3").val()+"&"+$("#tag4").val()+"&"+$("#tag5").val();

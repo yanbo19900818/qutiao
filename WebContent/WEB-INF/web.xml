@@ -16,8 +16,12 @@
   </listener>
     <servlet-mapping>
 	<servlet-name>default</servlet-name>
-	<url-pattern>/assets/*</url-pattern>
+	<url-pattern>/resource/*</url-pattern>
 	</servlet-mapping>    
+	    <servlet-mapping>
+	<servlet-name>default</servlet-name>
+	<url-pattern>/assets/*</url-pattern>
+	</servlet-mapping>  
   <servlet>
     <servlet-name>qutiao</servlet-name>
     <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
