@@ -9,11 +9,10 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>趣挑网-${product.title}</title>
-<script src="js/detail_ding_cai.js"></script>
-<script src="js/jquery.js"></script>
-<link rel="Shortcut Icon" href="http://www.qutiao.com/images/qutiao.ico"
-	type="image/x-icon" />
-<link href="images/main.css" rel="stylesheet" type="text/css" />
+<script src="/resource/js/detail_ding_cai.js"></script>
+<script src="/resource/js/jquery.js"></script>
+
+<link href="/resource/images/main.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
 	<jsp:include page="common/header.jsp"></jsp:include>

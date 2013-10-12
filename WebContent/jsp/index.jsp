@@ -16,11 +16,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta property="qc:admins" content="450110165761541176375" />
 <title>趣挑网-首页</title>
-<link href="/assets/images/main.css" rel="stylesheet" type="text/css" />
-<link rel="Shortcut Icon" href="http://www.qutiao.com/images/qutiao.ico"
-	type="image/x-icon" />
-<script src="/assets/js/index_ding_cai.js"></script>
-<script src="/assets/js/jquery.js"></script>
+<link href="/resource/images/main.css" rel="stylesheet" type="text/css" />
+<script src="/resource/js/index_ding_cai.js"></script>
+<script src="/resource/js/jquery.js"></script>
 </head>
 <body>
 	<jsp:include page="common/header.jsp"></jsp:include>

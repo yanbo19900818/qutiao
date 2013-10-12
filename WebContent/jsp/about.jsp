@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>趣挑网-关于我们</title>
-<link href="/images/main.css" rel="stylesheet" type="text/css" />
+<link href="/resource/images/main.css" rel="stylesheet" type="text/css" />
 <link href="/images/about.css" rel="stylesheet" type="text/css" />
 <link rel="Shortcut Icon" href="http://www.qutiao.com/images/qutiao.ico" type="image/x-icon"/>
 </head>
