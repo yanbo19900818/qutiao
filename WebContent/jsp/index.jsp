@@ -16,7 +16,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta property="qc:admins" content="450110165761541176375" />
 <title>趣挑网-首页</title>
-<link href="/resource/images/main.css" rel="stylesheet" type="text/css" />
+<link href="/resource/css/main.css" rel="stylesheet" type="text/css" />
 <script src="/resource/js/index_ding_cai.js"></script>
 <script src="/resource/js/jquery.js"></script>
 </head>
